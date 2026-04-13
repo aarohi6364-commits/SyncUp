@@ -19,21 +19,4 @@ It supports text & image sharing, online presence tracking, notifications, and s
 
 ---
 
-## 🛠️ Tech Stack
-
-Frontend: React.js, Zustand  
-Backend: Node.js, Express.js  
-Real-Time: Socket.io  
-Database: MongoDB  
-Media Storage: Cloudinary  
-Email Service: Resend  
-Security: Arcjet  
-
----
-
-## 📂 Project Setup
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/syncup.git
 
